@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Meodinger&show_icons=true&count_private=false&hide_title=true&include_all_commits=true&theme=buefy">
 
-### Hi there 👋
+## Hi there 👋
 
 - :book: **Student of UESTC**
 - :coffee: **JVM Language**
