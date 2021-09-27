@@ -5,6 +5,7 @@
 - :book: **Student of UESTC**
 - :coffee: **JVM Language**
 - :tv: **Anime lover**
+- :cat: **Have a cat**
 
 ---
 
