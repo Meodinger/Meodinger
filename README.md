@@ -15,7 +15,7 @@
 
  - **LabelPlusFX** : A comic translation marker inspired by [LabelPlus](https://noodlefighter.com/label_plus/).
  - **PS-Script** : Photoshop script to import translations from Json (LPFX File) or text (Legacy LP File).
- - **AcademyCraft** : (Ready to start (maybe)) AC mod for mc 1.16.5.
+ - **AcademyCraft** : (Ready to start (maybe)) Minecraft mod AcademyCraft for MC 1.16.5.
 
  ### :tada: Be my friend!
 
