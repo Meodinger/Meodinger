@@ -16,7 +16,7 @@
  - **LabelPlusFX** : A comic translation marker inspired by [LabelPlus](https://noodlefighter.com/label_plus/).
  - **ProofreadFX** : LPFX-based self-improve tool for translator to see diffs between proofreading and translation.
  - **PS-Script** : Photoshop script to import translations from Json (LPFX File) or text (Legacy LP File).
- - **AcademyCraft** : (Ready to start (maybe)) Minecraft mod AcademyCraft for MC 1.16.5.
+ - **soundlibs-module** : JDK 11 implementation of `com.google.soundlibs`, plus code update.
 
  ### :tada: Be my friend!
 
