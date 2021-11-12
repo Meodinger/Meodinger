@@ -2,7 +2,7 @@
 
 ### Meodinger Wang here 👋
 
-- :book: **Student of UESTC**
+- :book: **Student of UESTC** (but not major in CS)
 - :coffee: **JVM Language**
 - :tv: **Anime lover**
 - :cat: **Have a cat**
